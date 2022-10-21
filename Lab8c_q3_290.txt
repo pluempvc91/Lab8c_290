@@ -1,0 +1,4 @@
+successfully obtain ppid
+ppid = 134, Btw SIGUSR1 = 10
+waiting for SIG before writing to server
+Clnt write to mem & notify: os kmitl
